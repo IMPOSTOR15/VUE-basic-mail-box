@@ -1,4 +1,4 @@
-# 010my
+# VUE-basic-mail-box
 
 ## Project setup
 ```
